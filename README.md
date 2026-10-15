@@ -1,6 +1,6 @@
 # 🛒 Shopkart
 
-A full-stack e-commerce web app inspired by Flipkart. Browse products, search and filter by category, manage a cart, and place orders that are saved in a real database.
+A full-stack e-commerce web app. Browse products, search and filter by category, manage a cart, and place orders that are saved in a real database.
 
 **Live demo:** https://shopkart-three-rho.vercel.app
 **API:** https://shopkart-hgc3.onrender.com/api/products/
